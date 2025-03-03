@@ -27,25 +27,25 @@ Beyond technical proficiency, I’m deeply committed to continuous learning 📚
 ### 🖥️ Programming Languages
 <p align="center">
     <a href="https://isocpp.org/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/c++%20(2).png?raw=true" width="65" title="C++">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/c++%20(2).png?raw=true" width="85" title="C++">
     </a> &nbsp;&nbsp;
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/c.png?raw=true" width="65" title="C">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/c.png?raw=true" width="85" title="C">
     </a> &nbsp;&nbsp;
     <a href="https://www.java.com/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/java.png?raw=true" width="65" title="Java">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/java.png?raw=true" width="85" title="Java">
     </a> &nbsp;&nbsp;
     <a href="https://www.javascript.com/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/javascript.png?raw=true" width="65" title="JavaScript">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/javascript.png?raw=true" width="85" title="JavaScript">
     </a> &nbsp;&nbsp;
     <a href="https://www.python.org/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/python.png?raw=true" width="65" title="Python">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/python.png?raw=true" width="85" title="Python">
     </a>
     <a href="https://dart.dev/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/dart.png?raw=true" width="65" title="Dart">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/dart.png?raw=true" width="85" title="Dart">
     </a> &nbsp;&nbsp;
     <a href="https://flutter.dev/">
-        <img src="https://github.com/MikiMarconi/readme/blob/main/flutter.png?raw=true" width="65" title="Flutter">
+        <img src="https://github.com/MikiMarconi/readme/blob/main/flutter.png?raw=true" width="85" title="Flutter">
     </a> &nbsp;&nbsp;
 </p>
 
