@@ -93,8 +93,9 @@ Beyond technical proficiency, I’m deeply committed to continuous learning 📚
 
 ## 📈 GitHub Stats
 
-![MikiMarconi's Contributions](https://github-readme-stats.vercel.app/api?username=MikiMarconi&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
+</p>
 
 ## 🏆 Achievements
 
