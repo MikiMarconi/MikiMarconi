@@ -97,7 +97,6 @@ Beyond technical proficiency, I’m deeply committed to continuous learning, col
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
 </p>
 
-![Visits](https://visitorbadge.vercel.app//api/badge/a0973001-cad3-434d-beb9-ca6bc098bead?style=plastic&color=74d228&labelColor=3e313f)
 
 ## Achievements
 
